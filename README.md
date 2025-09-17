@@ -124,7 +124,7 @@ This helps growth teams **track, score, and engage with potential customers** in
 - This `README.md`
 - Zapier shared workflow link
 - Google Sheet template with headers
-- Text file for slack message
+- Text file for slack message in `slack_message`
 - `/screenshots` folder with images
 
 ---

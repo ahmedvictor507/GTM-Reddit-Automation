@@ -1,0 +1,21 @@
+🚨 **HIGH-PRIORITY REDDIT OPPORTUNITY DETECTED!**
+
+📊 **Confidence Score:** {{321426787__confidence_score}}
+🎯 **Business Intent:** {{321426787__intent}}
+💡 **Pain Point:** {{321426787__business_pain_point}}
+
+📝 **Post Summary:** {{321463153__post_summary}}
+
+🔗 **Reddit Post:** {{321426781__url}}
+👤 **Author:** u/{{321426781__author}}
+📍 **Subreddit:** r/{{321426781__subreddit}}
+
+💬 **Suggested Engagement ({{321463153__engagement_type}}):**
+"{{321463153__engagement_message}}
+
+🎯 **Why This Works:** {{321463153__engagement_reasoning}}
+
+⚡ **Urgency Level:** {{321463153__urgency_level}}
+🔄 **Follow-up Opportunity:** {{321463153__follow_up_opportunity}}
+
+🚀 **Action Required:** Team member should engage within 2 hours for maximum impact!

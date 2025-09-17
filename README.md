@@ -106,16 +106,8 @@ This helps growth teams **track, score, and engage with potential customers** in
 
 ---
 
-## 🖼️ Screenshots
-Screenshots are included in the `/screenshots` folder.  
-
+## 🖼️ Workflow Overview
 - ![Workflow Overview](screenshots/workflow_overview.png)  
-- ![Reddit Trigger Config](screenshots/build.png)  
-- ![AI Classification Config](screenshots/ai_classification.png)  
-- ![AI Engagement Config](screenshots/ai_engagement.png)  
-- ![Google Sheets Setup](screenshots/sheets_headers.png)  
-- ![Slack Alert Example](screenshots/slack_alert.png)  
-
 ---
 
 ## 📌 Notes
@@ -132,6 +124,7 @@ Screenshots are included in the `/screenshots` folder.
 - This `README.md`
 - Zapier shared workflow link
 - Google Sheet template with headers
+- Text file for slack message
 - `/screenshots` folder with images
 
 ---
